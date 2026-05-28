@@ -217,7 +217,9 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-#  Colab
+.idea/
 data/
 outputs/
 checkpoints/
+__pycache__/
+.ipynb_checkpoints/
